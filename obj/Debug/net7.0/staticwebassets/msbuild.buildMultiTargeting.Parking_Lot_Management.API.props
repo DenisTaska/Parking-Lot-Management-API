@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Parking_Lot_Management.API.props" />
+</Project>
